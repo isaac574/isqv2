@@ -1,1 +1,1 @@
-isqv2/deno
+isqv2/demo
